@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T22:41:15.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="asoIMMccIXavplVWNLP3" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T22:41:55.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="JdJC_yrmd0QxNBIVuKRw" version="14.2.9" type="github">
   <diagram id="f_o0BvziBfYcsVFwPopD" name="Page-1">
-    <mxGraphModel dx="2480" dy="2141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3472" dy="2667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -507,7 +507,7 @@
           <mxGeometry x="20" y="44" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vXBK9l9yCr8DbJ2hp1-x-29" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;strokeColor=#FFFFFF;fillColor=#1a1328;" vertex="1" parent="1">
-          <mxGeometry x="471.5" y="2483" width="137" height="137" as="geometry" />
+          <mxGeometry x="471.5" y="2482" width="137" height="137" as="geometry" />
         </mxCell>
         <mxCell id="vXBK9l9yCr8DbJ2hp1-x-30" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;fontFamily=Helvetica;fontColor=#000000;strokeColor=#FFFFFF;fillColor=#1a1328;" vertex="1" parent="1">
           <mxGeometry x="773.13" y="2482" width="173.75" height="139" as="geometry" />
