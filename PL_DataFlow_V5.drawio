@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-08T21:59:21.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="uOKA8y1cdTziVeNriydV" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-08T22:04:33.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="B4b6xztS1RAWiYyKZpWt" version="14.3.0" type="github">
   <diagram id="f_o0BvziBfYcsVFwPopD" name="Page-1">
     <mxGraphModel dx="7891" dy="2582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -687,6 +687,9 @@
         </mxCell>
         <mxCell id="KKccqA3I1FYu1W6xAtzk-101" value="&lt;p style=&quot;font-size: 40px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#4e78da&quot;&gt;RETORNO DE&lt;br&gt;INFORMAÇÕES&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="2696" y="2509" width="321" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="KKccqA3I1FYu1W6xAtzk-102" value="&lt;blockquote&gt;&lt;font color=&quot;#1a1328&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 65px&quot;&gt;MYCARDS&lt;/b&gt;&lt;/font&gt;&lt;/blockquote&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2774" y="2861" width="419" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
